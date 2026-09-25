@@ -13,7 +13,7 @@ data visualisation.
 
 Raw RNA-sequencing data are available at the NCBI Sequence Read Archive (SRA)
 under BioProject accession
-[PRJNA000000](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA000000)
+[PRJNA1534655](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1534655)
 (BioSample records SAMN000000–SAMN000000; n = 34).
 
 ## Requirements
